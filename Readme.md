@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Image processors, Firmware development, Embedded systems, Camera Sesnors & Data Science and related Technologies
 - 📫 How to reach me: you can reach me out at **sudeep.ks@hotmail.com** or reach me out at linkedin.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sudeep-ks&show_icons=true&theme=radical" alt="sudeep-ks" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sudeep-ks&show_icons=true&theme=dark" alt="sudeep-ks" />
   
   ## Connect with me  
 <div align="left">
