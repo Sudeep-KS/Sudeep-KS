@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working with Intel as Firmware Engineer
-- 🌱 I’m currently pursuing my PG Diploma in and Machine Learning from IIIT Bangalore
+- 🌱 I’m currently pursuing my PG Diploma in AI and Machine Learning from IIIT Bangalore
 - 💬 Ask me about Image processors, Firmware development, Embedded systems, Camera Sesnors & Data Science and related Technologies
 - 📫 How to reach me: you can reach me out at **sudeep.ks@hotmail.com** or reach me out at linkedin.
 
