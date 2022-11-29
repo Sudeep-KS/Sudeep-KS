@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working with Intel as Firmware Engineer
 - 🌱 I’m currently pursuing my PG Diploma in AI and Machine Learning from IIIT Bangalore
-- 💬 Ask me about Image processors,Camera Sensors,Computer vision,Deep learning,Firmware development,Linux Device Drivers etc..
+- 💬 Ask me about Image processors, Camera Sensors, Computer vision, Deep learning, Firmware development, Linux Device Drivers etc..
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sudeep-ks&show_icons=true&theme=transparent" alt="sudeep-ks" />
   
