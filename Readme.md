@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=sudeep-ks&color=blue)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sudeep-ks&show_icons=true&theme=transparent" alt="sudeep-ks" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sudeep-ks&show_icons=true&theme=transparent&count_private=true" alt="sudeep-ks" />
   
   ## Connect with me  
 <div align="left">
