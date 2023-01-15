@@ -33,8 +33,7 @@ Here are some ideas to get you started:
   
 <p><img align="left" src="https://github-readme-stats-1-steel.vercel.app/api?username=sudeep-ks&show_icons=true&count_private=true&theme=transparent&hide_border=true" alt="sudeep-ks" />
 
-### Last seen playing:
-  &nbsp;<div align="left">
-  [![Spotify](https://novatorem-sudeep-ks.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+&nbsp;<div align="left">
+[![Spotify](https://novatorem-sudeep-ks.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 
 <br/>  
