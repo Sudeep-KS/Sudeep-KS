@@ -2,7 +2,7 @@
 
 <!--
 **Sudeep-KS/Sudeep-ks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p><img align="left" src="https://github-readme-stats-1-steel.vercel.app/api?username=sudeep-ks&show_icons=true&count_private=true&theme=transparent&hide_border=true" alt="sudeep-ks" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
