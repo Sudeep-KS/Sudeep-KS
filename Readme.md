@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about Image processors, Embedded systems, Camera Sensors, Computer vision, Deep learning and related Technologies
 - 📫 How to reach me: you can reach me out at **sudeep.ks@hotmail.com** or reach me out at linkedin.
 
+I am an Experienced imaging embedded professional with strong background in Firmware development for image processing piplelines and Camera sensors with extensive experience in linux kernal internals, Artificial Intelligence, Machine learning & Deep learning and all aspects of silicon development lifecycle
+
+A results-driven professional having more than a decade of experience across local, regional and global environments, strong academic credentials, demonstrating design thinking concepts, innovation and fostering strong relationships and working in a multi-cultural environment.
+
+Passionate about All aspects of silicon development and expertise in Vision related silicon hardware accelerators. Keen explorer of technology and innovation in Vision Technology, ML & AI modeling domains, automation of Pre/Post Silicon Validation Frameworks across various architectures.
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/sudeep-ks" target="_blank">
